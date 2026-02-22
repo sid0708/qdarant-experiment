@@ -1,0 +1,6 @@
+qdrant-client>=1.14.2
+fastembed
+numpy
+ranx
+beautifulsoup4
+pandas
